@@ -1,0 +1,5 @@
+MODEL = 'llama3.2'
+TEXT_MENTION = 'STOP'
+WORK_DIR = 'Temp'
+TIMEOUT = 120
+MAX_TURNS = 15

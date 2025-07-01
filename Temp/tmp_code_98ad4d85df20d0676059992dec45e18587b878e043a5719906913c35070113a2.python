@@ -1,0 +1,21 @@
+def add_two_numbers(num1, num2):
+    return num1 + num2
+
+# Test cases:
+print("Test Case 1:")
+num1 = 5
+num2 = 7
+result = add_two_numbers(num1, num2)
+print(f"The sum of {num1} and {num2} is: {result}")
+
+print("\nTest Case 2:")
+num1 = 20
+num2 = 30
+result = add_two_numbers(num1, num2)
+print(f"The sum of {num1} and {num2} is: {result}")
+
+print("\nTest Case 3:")
+num1 = 50
+num2 = 60
+result = add_two_numbers(num1, num2)
+print(f"The sum of {num1} and {num2} is: {result}")
