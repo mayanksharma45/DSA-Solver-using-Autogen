@@ -5,7 +5,7 @@ def get_code_executor():
     """
     Function to get the executor agent.
     This agent is responsible for executing code.
-    It will with the problem solver agent to execute the code.
+    It will with the Problem Solver Agent to execute the code.
     """
 
     docker = get_docker_executor()
