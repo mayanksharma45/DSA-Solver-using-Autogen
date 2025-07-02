@@ -16,7 +16,7 @@ setup(
     name="DSA-Solver-Using-Autogen",
     version="0.0.1",
     author="Mayank Sharma",
-    author_email="mayanksharma88112@gmail.com",
+    author_email="mayanksharma88112@gmail.com",  # replace by ur email
     packages=find_packages(),
     install_requires=get_requirements(),
     python_requires=">=3.10",
